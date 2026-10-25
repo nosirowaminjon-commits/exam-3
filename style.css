@@ -145,16 +145,20 @@
     font-size: 50px;
     color: #274C5B;
 }
-.ok{
+
+.ok {
     margin-top: -250px;
 }
-.ok p{
+
+.ok p {
     color: #525C60;
 }
-.p{
+
+.p {
     font-size: 20px;
 }
-.brg{
+
+.brg {
     padding: 20px;
     border-radius: 10px;
     background-color: white;
@@ -162,7 +166,8 @@
     left: 725px;
     top: 2000px;
 }
-.k{
+
+.k {
     position: absolute;
     left: 850px;
     top: 1995px;
@@ -170,14 +175,16 @@
     color: #274C5B;
     font-weight: normal;
 }
-.k1{
+
+.k1 {
     position: absolute;
     left: 850px;
     top: 2032px;
     color: #525C60;
     font-size: 20px;
 }
-.poch1{
+
+.poch1 {
     background-color: white;
     padding: 20px;
     border-radius: 10px;
@@ -185,7 +192,8 @@
     top: 2120px;
     left: 725px;
 }
-.h{
+
+.h {
     font-weight: normal;
     color: #274C5B;
     font-size: 30px;
@@ -193,14 +201,16 @@
     top: 2120px;
     left: 850px;
 }
-.p1{
+
+.p1 {
     position: absolute;
     left: 850px;
     top: 2157px;
     color: #525C60;
     font-size: 20px;
 }
-.btn1{
+
+.btn1 {
     width: 200px;
     height: 50px;
     background-color: #274C5B;
@@ -213,7 +223,8 @@
     margin-left: -770px;
     padding-right: 10px;
 }
-.str1{
+
+.str1 {
     background-color: #525C60;
     border-radius: 50px;
     padding: 5px;
@@ -221,19 +232,22 @@
     top: 2248px;
     left: 885px;
 }
-.org{
+
+.org {
     display: flex;
     align-items: center;
     padding-left: 710px;
     padding-top: 100px;
 }
-.k2{
+
+.k2 {
     font-size: 50px;
     color: #274C5B;
     text-align: center;
     padding-bottom: 50px;
 }
-.h2{
+
+.h2 {
     background-color: #274C5B;
     color: white;
     font-size: 15px;
@@ -242,71 +256,84 @@
     border-radius: 10px;
     position: absolute;
 }
-.veg{
+
+.veg {
     background-color: #F9F7F8;
     width: 300px;
     border-radius: 20px;
     padding: 20px;
 }
-.brok{
+
+.brok {
     width: 300px;
 }
-.cl{
+
+.cl {
     color: #274C5B;
     font-size: 20px;
     border-bottom: 2px solid #D4D4D4;
     padding-bottom: 3px;
 }
-.o{
+
+.o {
     color: #D4D4D4;
     text-decoration: line-through;
     display: inline;
 }
-.oo{
+
+.oo {
     display: inline;
     font-weight: bolder;
     color: #274C5B;
 }
-.narx{
+
+.narx {
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-bottom: 10px;
 }
-.op{
+
+.op {
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding: 30px 150px;
 }
-.ps p{
+
+.ps p {
     font-size: 20px;
 }
-.dawt{
+
+.dawt {
     width: 600px;
 }
-.dawt1{
+
+.dawt1 {
     display: flex;
     align-items: center;
     gap: 0px;
     justify-content: space-around;
     padding: 30px 100px;
 }
-.nn h1{
+
+.nn h1 {
     font-size: 50px;
     color: #274C5B;
 }
-.nn h2{
+
+.nn h2 {
     color: #274C5B;
 }
-.nn p{
+
+.nn p {
     color: #525C60;
     font-size: 20px;
 }
-.ig5{
-    
-}
-.fru{
+
+.ig5 {}
+
+.fru {
     background-color: white;
     display: inline;
     position: absolute;
@@ -318,7 +345,8 @@
     top: 4620px;
     color: #274C5B;
 }
-.ih{
+
+.ih {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -326,7 +354,8 @@
     padding-bottom: 100px;
     background-color: #EFF6F1;
 }
-.fru1{
+
+.fru1 {
     background-color: white;
     display: inline;
     position: absolute;
@@ -338,7 +367,8 @@
     top: 4620px;
     color: #274C5B;
 }
-.fru2{
+
+.fru2 {
     background-color: white;
     display: inline;
     position: absolute;
@@ -351,18 +381,20 @@
     color: #274C5B;
 }
 
-.news{
+.news {
     padding-top: 100px;
     padding-left: 100px;
     padding-bottom: 50px;
 }
-.os{
+
+.os {
     font-size: 50px;
     color: #274C5B;
     display: inline;
     padding-right: 50px;
 }
-.str2{
+
+.str2 {
     background-color: #274C5B;
     border-radius: 50px;
     padding: 7px;
@@ -370,7 +402,8 @@
     left: -40px;
     top: 5px;
 }
-.btt{
+
+.btt {
     width: 200px;
     height: 60px;
     background-color: white;
@@ -379,35 +412,42 @@
     color: #274C5B;
     font-size: 20px;
 }
-.d{
+
+.d {
     display: inline;
 }
-.igg{
+
+.igg {
     background-color: white;
     position: absolute;
     top: 5470px;
-    left: 100px;
+    left: 135px;
     padding: 20px;
     border-radius: 20px;
 }
-.kl{
+
+.kl {
     display: flex;
     align-items: center;
     gap: 10px;
 }
-.igg p{
+
+.igg p {
     color: #525C60;
 }
-.igg h2{
+
+.igg h2 {
     color: #274C5B;
 }
-.alaf{
+
+.alaf {
     display: flex;
     align-items: center;
     justify-content: space-around;
     padding-bottom: 100px;
 }
-.igg1{
+
+.igg1 {
     background-color: white;
     position: absolute;
     top: 5470px;
@@ -416,13 +456,16 @@
     border-radius: 20px;
     padding-bottom: 20px;
 }
-.igg1 p{
+
+.igg1 p {
     color: #525C60;
 }
-.igg1 h2{
+
+.igg1 h2 {
     color: #274C5B;
 }
-.kd{
+
+.kd {
     background-color: #274C5B;
     padding: 5px;
     border-radius: 60px;
@@ -430,23 +473,27 @@
     left: 80px;
     top: -20px;
 }
-.limon{
+
+.limon {
     display: flex;
     align-items: center;
     justify-content: center;
     padding-left: 70px;
 }
-.vv{
+
+.vv {
     padding-bottom: 100px;
 }
-.jj{
+
+.jj {
     position: absolute;
     top: 6020px;
     left: 150px;
     font-size: 50px;
     color: white;
 }
-.inp{
+
+.inp {
     width: 190px;
     padding: 30px 30px;
     border-radius: 10px;
@@ -455,7 +502,8 @@
     left: 800px;
     top: -200px;
 }
-.kkk{
+
+.kkk {
     padding: 23px 30px;
     width: 190px;
     font-size: 25px;
@@ -469,7 +517,7 @@
     top: -196px;
 }
 
-.oi{
+.oi {
     position: relative;
     background-color: #525C60;
     border-radius: 50px;
@@ -477,6 +525,73 @@
     left: 760px;
     top: -193px;
 }
-input::placeholder{
+
+input::placeholder {
     font-size: 18px;
+}
+
+.ftr {
+    color: #525c60;
+    padding-top: 60px;
+}
+
+.ct {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 40px;
+}
+
+.fc h3 {
+    font-size: 20px;
+    color: #274c5b;
+    margin-bottom: 25px;
+    font-weight: bold;
+}
+
+.fi {
+    margin-bottom: 15px;
+}
+
+.fl1 {
+    display: block;
+    font-weight: bold;
+    color: #274c5b;
+    font-size: 14px;
+    margin-bottom: 3px;
+}
+
+.fi a,
+.fi p {
+    color: #525c60;
+    font-size: 15px;
+    margin: 0;
+}
+
+.fcc {
+    text-align: center;
+}
+
+.fl h2 {
+    color: #274c5b;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+.jk {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.fb {
+    border-top: 1px solid #e0e0e0;
+    margin-top: 50px;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 14px;
+    color: #525c60;
 }

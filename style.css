@@ -32,7 +32,7 @@
     width: 30px;
 }
 
-.o {
+.o1 {
     color: #9EC8AE;
 }
 
@@ -279,3 +279,28 @@
     justify-content: space-around;
     padding: 30px 150px;
 }
+.ps p{
+    font-size: 20px;
+}
+.dawt{
+    width: 600px;
+}
+.dawt1{
+    display: flex;
+    align-items: center;
+    gap: 0px;
+    justify-content: space-around;
+    padding: 30px 100px;
+}
+.nn h1{
+    font-size: 50px;
+    color: #274C5B;
+}
+.nn h2{
+    color: #274C5B;
+}
+.nn p{
+    color: #525C60;
+    font-size: 20px;
+}
+

@@ -430,4 +430,53 @@
     left: 80px;
     top: -20px;
 }
+.limon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 70px;
+}
+.vv{
+    padding-bottom: 100px;
+}
+.jj{
+    position: absolute;
+    top: 6020px;
+    left: 150px;
+    font-size: 50px;
+    color: white;
+}
+.inp{
+    width: 190px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    border: 1px solid #CCCCCC;
+    position: relative;
+    left: 800px;
+    top: -200px;
+}
+.kkk{
+    padding: 23px 30px;
+    width: 190px;
+    font-size: 25px;
+    background-color: #274C5B;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 0;
+    position: relative;
+    left: 800px;
+    top: -196px;
+}
 
+.oi{
+    position: relative;
+    background-color: #525C60;
+    border-radius: 50px;
+    padding: 5px;
+    left: 760px;
+    top: -193px;
+}
+input::placeholder{
+    font-size: 18px;
+}

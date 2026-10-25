@@ -221,3 +221,61 @@
     top: 2248px;
     left: 885px;
 }
+.org{
+    display: flex;
+    align-items: center;
+    padding-left: 710px;
+    padding-top: 100px;
+}
+.k2{
+    font-size: 50px;
+    color: #274C5B;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.h2{
+    background-color: #274C5B;
+    color: white;
+    font-size: 15px;
+    display: inline;
+    padding: 10px 20px;
+    border-radius: 10px;
+    position: absolute;
+}
+.veg{
+    background-color: #F9F7F8;
+    width: 300px;
+    border-radius: 20px;
+    padding: 20px;
+}
+.brok{
+    width: 300px;
+}
+.cl{
+    color: #274C5B;
+    font-size: 20px;
+    border-bottom: 2px solid #D4D4D4;
+    padding-bottom: 3px;
+}
+.o{
+    color: #D4D4D4;
+    text-decoration: line-through;
+    display: inline;
+}
+.oo{
+    display: inline;
+    font-weight: bolder;
+    color: #274C5B;
+}
+.narx{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.op{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px 150px;
+}

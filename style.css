@@ -74,3 +74,42 @@
     border-radius: 50px;
     padding: 5px;
 }
+.ig1{
+    position: absolute;
+    z-index: -1;
+    top: 1050px;
+    left: 100px;
+}
+.ntr{
+    position: absolute;
+    top: 1200px;
+    left: 150px;
+}
+.sec1 h1{
+    font-size: 50px;
+    padding-top: 300px;
+    padding-left: 140px;
+    color: white;
+    font-weight: normal;
+}
+.sc1{
+    position: absolute;
+   
+    left: 800px;
+    top: 1050px;
+}
+.off{
+    position: absolute;
+    left: 60px;
+    top: 140px;
+}
+.sc1 h1{
+    font-size: 50px;
+    font-weight: normal;
+    margin-top: -200px;
+    padding-left: 50px;
+    color: #274C5B;
+}
+.s{
+    margin-bottom: 180px;
+}

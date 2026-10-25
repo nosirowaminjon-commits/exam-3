@@ -35,26 +35,30 @@
 .o {
     color: #9EC8AE;
 }
-.ig{
+
+.ig {
     background-image: url(./bgimage.svg);
-    background-position:;
+    background-position: ;
     background-repeat: no-repeat;
     background-size: 100%;
     height: 770px;
 }
-.wr{
+
+.wr {
     position: absolute;
     top: 400px;
     left: 70px;
 }
-.ig h1{
+
+.ig h1 {
     font-size: 50px;
     padding-top: 270px;
     padding-left: 70px;
     color: #274C5B;
     font-weight: bolder;
 }
-.btn{
+
+.btn {
     width: 170px;
     height: 60px;
     border: 0;
@@ -66,7 +70,8 @@
     font-size: 15px;
     border: 0;
 }
-.str{
+
+.str {
     position: absolute;
     top: 655px;
     left: 200px;
@@ -74,42 +79,145 @@
     border-radius: 50px;
     padding: 5px;
 }
-.ig1{
+
+.ig1 {
     position: absolute;
     z-index: -1;
     top: 1050px;
     left: 100px;
 }
-.ntr{
+
+.ntr {
     position: absolute;
     top: 1200px;
     left: 150px;
 }
-.sec1 h1{
+
+.sec1 h1 {
     font-size: 50px;
     padding-top: 300px;
     padding-left: 140px;
     color: white;
     font-weight: normal;
 }
-.sc1{
+
+.sc1 {
     position: absolute;
-   
+
     left: 800px;
     top: 1050px;
 }
-.off{
+
+.off {
     position: absolute;
     left: 60px;
     top: 140px;
 }
-.sc1 h1{
+
+.sc1 h1 {
     font-size: 50px;
     font-weight: normal;
     margin-top: -200px;
     padding-left: 50px;
     color: #274C5B;
 }
-.s{
+
+.s {
     margin-bottom: 180px;
+}
+
+.sec2 {
+    padding-top: 100px;
+    background-color: #F9F8F8;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+
+.ab {
+    position: absolute;
+    left: 900px;
+    top: 1660px;
+}
+
+.ok h1 {
+    font-size: 50px;
+    color: #274C5B;
+}
+.ok{
+    margin-top: -250px;
+}
+.ok p{
+    color: #525C60;
+}
+.p{
+    font-size: 20px;
+}
+.brg{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    left: 725px;
+    top: 2000px;
+}
+.k{
+    position: absolute;
+    left: 850px;
+    top: 1995px;
+    font-size: 30px;
+    color: #274C5B;
+    font-weight: normal;
+}
+.k1{
+    position: absolute;
+    left: 850px;
+    top: 2032px;
+    color: #525C60;
+    font-size: 20px;
+}
+.poch1{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 2120px;
+    left: 725px;
+}
+.h{
+    font-weight: normal;
+    color: #274C5B;
+    font-size: 30px;
+    position: absolute;
+    top: 2120px;
+    left: 850px;
+}
+.p1{
+    position: absolute;
+    left: 850px;
+    top: 2157px;
+    color: #525C60;
+    font-size: 20px;
+}
+.btn1{
+    width: 200px;
+    height: 50px;
+    background-color: #274C5B;
+    color: white;
+    font-size: 20px;
+    border: 0;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 600px;
+    margin-left: -770px;
+    padding-right: 10px;
+}
+.str1{
+    background-color: #525C60;
+    border-radius: 50px;
+    padding: 5px;
+    position: absolute;
+    top: 2248px;
+    left: 885px;
 }
